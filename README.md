@@ -4,9 +4,9 @@ A simple script to generate a random RSA key pair (private and public key pair),
 
 ## Get Started
 
-1. Create a copy of this GitHub repo.
+1. Clone this GitHub repo.
 ```sh
-
+git clone https://github.com/regiets/rsa-key-pair-generator.git
 ```
 
 2. Install dependencies with npm.

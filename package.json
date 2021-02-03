@@ -1,0 +1,14 @@
+{
+  "name": "rsa-key-pair-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-rsa": "^1.0.5"
+  }
+}
